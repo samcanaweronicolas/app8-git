@@ -5,10 +5,10 @@ xmlns:gap = "http://phonegap.com/ns/1.0"
 id = "com.phonegap.app7"
 version = "1.0.0">
  
- <name> app7 Desplazar hacia la izquierda y a la derecha </name>
+ <name> app8 ACCIONES </name>
  
  <description>
- Aplicacion que realiza el swipe o desplazamiento del dispocitivo
+ Aplicacion que que muestra acciones del telefono
  </description>
  
  <author href="https://build.poneghap.com" email = "nicolaswer08@gmail.com">
